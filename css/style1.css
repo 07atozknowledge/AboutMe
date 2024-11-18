@@ -309,7 +309,7 @@ h3 {
 }
 
 .bio-progress-bar {
-  width: 60%;
+  width: 45%;
   height: 0.8rem;
   /* background: var(--para); */
   background-color: var(--progress-bar);
@@ -319,7 +319,7 @@ h3 {
   /* overflow: hidden; */
 }
 .bio-progress-2{
-    width: 99%;
+    width: 80%;
     height: 0.8rem;
     /* background: var(--para); */
     background-color: var(--progress-bar);
@@ -331,7 +331,7 @@ h3 {
   }
 
   .bio-progress-3{
-    width: 75%;
+    width: 65%;
     height: 0.8rem;
     /* background: var(--para); */
     background-color: var(--progress-bar);
@@ -343,7 +343,7 @@ h3 {
   }
 
   .bio-progress-4{
-    width: 70%;
+    width: 60%;
     height: 0.8rem;
     /* background: var(--para); */
     background-color: var(--progress-bar);
@@ -354,7 +354,7 @@ h3 {
     /* overflow: hidden; */
   }
   .bio-progress-5{
-    width: 25%;
+    width: 50%;
     height: 0.8rem;
     /* background: var(--para); */
     background-color: var(--progress-bar);
